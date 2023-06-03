@@ -22,5 +22,5 @@ The bot is initialized in the console using `while True:` loop. The user enters 
 The final topic is displayed and a question should be inserted, to which process function is applied. The user has an option to quit or exit the loop entirely.
 
 Example:
-![The bot](Bot_screen.png)
+![The bot](Bot_screen.PNG)
 
