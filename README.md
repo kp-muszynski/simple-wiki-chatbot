@@ -18,7 +18,7 @@ Firstly, I define a lemmatizing function (lemma_me), which finds lemmas of words
 
 ## Chatbot
 
-The bot is initialized in the console using `while True:` loop. The user enters a topic that is searched in wikipedia library, handling the PageError and DisambiguationError expceptions. If there are more than one result, the code randomly chooses an option and continues to do so, until it finds the unique page. In case PageError is encountered, the user is asked to try again. 
+The bot is initialized in the console using `while True:` loop. The user enters a topic that is searched in wikipedia library, handling the PageError and DisambiguationError exceptions. If there are more than one result, the code randomly chooses an option and continues to do so, until it finds the unique page. In case PageError is encountered, the user is asked to try again. 
 The final topic is displayed and a question should be inserted, to which process function is applied. The user has an option to quit or exit the loop entirely.
 
 Example:
